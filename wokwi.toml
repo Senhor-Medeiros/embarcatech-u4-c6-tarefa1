@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = './build/embarcatech-u4-c6-tarefa1.hex'
+elf = './build/embarcatech-u4-c6-tarefa1.elf'
